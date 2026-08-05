@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-c9xlbi.menara4dkzt.cyou/sitemap.xml
